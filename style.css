@@ -47,3 +47,12 @@ body {
     font-size: 14px;
     margin: 15px 0 30px;
 }
+
+.heading {
+  text-align: center;
+}
+
+.paragraph {
+    text-align: center;
+    color: silver;
+}
